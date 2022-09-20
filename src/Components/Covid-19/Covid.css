@@ -1,0 +1,21 @@
+body{
+     background: #E6DADA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #274046, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#box input{
+     margin:35px;
+     width: 25%;
+     font-size: 24px;
+     height: 35px;
+}
+#box button {
+     margin: 15px;
+     font-size: 24px;
+     border: 1px solid black;
+     padding: 5px;
+     height: 37px;
+     width: 10%;
+   }
+   
