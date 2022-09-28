@@ -1,4 +1,4 @@
-🔰 COVID-19 UPDATES
+🔰 COVID-19 Tracker
 ________
 This Application can help you find out numbers of COVID cases in a Country.
 
