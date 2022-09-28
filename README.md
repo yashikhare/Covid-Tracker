@@ -26,4 +26,6 @@ You will get Active Cases, Deaths, Total Cases, etc.
 
 Text-editors used: VS Code
 
- 
+ ## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashi-khare-6a6a621a8)
+## [Netlify](https://yashikhare-covid-tracker-app.netlify.app)
